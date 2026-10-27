@@ -80,7 +80,13 @@ const soumya = {
 
 
 ## 🗺️ My Learning Roadmap
-
+- [ ] Python
+- [ ] Numpy
+- [ ] Pandas
+- [ ] Matplotlib
+- [ ] Djnago
+- [ ] Flask
+- [ ] Fast API
 - [x] HTML & CSS fundamentals
 - [x] Responsive design (Flexbox & Grid)
 - [x] Tailwind CSS & Bootstrap
@@ -88,7 +94,7 @@ const soumya = {
 - [ ] JavaScript advanced (async/await, DOM, APIs)
 - [ ] React.js
 - [ ] Node.js & Express
-- [ ] MongoDB / SQL basics
+- [ ] MongoDB / MYSQL
 - [ ] DSA in JavaScript
 - [ ] Deploy a full-stack project
 
