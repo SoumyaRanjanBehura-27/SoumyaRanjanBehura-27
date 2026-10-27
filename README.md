@@ -241,10 +241,9 @@ Fast, documented API built with FastAPI.
 ---
 
 ## `>_ quote_of_the_moment`
-
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="100%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="520"/>
 
 </div>
 
