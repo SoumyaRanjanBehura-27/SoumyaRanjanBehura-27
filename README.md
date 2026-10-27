@@ -207,16 +207,16 @@ Fast, documented API built with FastAPI.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SoumyaRanjanBehura-27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=38bdf8&icon_color=22d3ee&count_private=true" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaRanjanBehura-27&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=38bdf8&layout=compact" alt="Top Languages"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=SoumyaRanjanBehura-27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=38bdf8&icon_color=22d3ee&count_private=true" alt="GitHub Stats"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaRanjanBehura-27&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=38bdf8&layout=compact" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=SoumyaRanjanBehura-27&theme=tokyonight&hide_border=true&background=0b1220&ring=38bdf8&fire=22d3ee&currStreakLabel=38bdf8" alt="GitHub Streak" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=SoumyaRanjanBehura-27&theme=tokyonight&hide_border=true&background=0b1220&ring=38bdf8&fire=22d3ee&currStreakLabel=38bdf8" alt="GitHub Streak" width="480"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SoumyaRanjanBehura-27&theme=react-dark&bg_color=0b1220&hide_border=true&area=true&color=38bdf8&line=0ea5e9&point=ffffff" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SoumyaRanjanBehura-27&theme=react-dark&bg_color=0b1220&hide_border=true&area=true&color=38bdf8&line=0ea5e9&point=ffffff&height=250" alt="Activity Graph" width="700"/>
 
 </div>
 
@@ -227,7 +227,6 @@ Fast, documented API built with FastAPI.
 <img src="https://github-profile-trophy.vercel.app/?username=SoumyaRanjanBehura-27&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" width="100%"/>
 </div>
 </details>
-
 ---
 
 ## `>_ contribution_snake`
