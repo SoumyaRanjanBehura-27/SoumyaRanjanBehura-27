@@ -31,13 +31,22 @@ const soumya = {
 };
 ```
 
-- 🔭 I'm currently working on **responsive web projects**
-- 🌱 I'm learning **React, JavaScript (ES6+) and DSA**
-- 👯 I'm looking to **collaborate on beginner-friendly open-source projects**
-- 💬 Ask me about **HTML, CSS, Tailwind, Bootstrap & JavaScript**
-- ⚡ Goal: **land my first developer job and grow as an engineer**
+# 👋 Hey there, I'm a Full-Stack Developer 🚀
 
----
+### 💻 Code. Create. Innovate.
+
+I'm an aspiring Full-Stack Developer passionate about building web applications and exploring the power of Python.
+
+- 🐍 **Backend:** Python, Django, FastAPI, Flask
+- 🎨 **Frontend:** React, HTML, CSS
+- 🗄️ **Databases:** MySQL, MongoDB
+- 📊 **Data Tools:** NumPy, Pandas, Matplotlib
+- 🌱 **Currently:** Learning, experimenting, and building projects
+- 🎯 **Goal:** Turn creative ideas into useful, real-world applications
+
+> "Every expert was once a beginner who never gave up."
+
+⚡ *Building my skills, one commit at a time.*
 
 ## 🌐 Socials
 
