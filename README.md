@@ -264,6 +264,6 @@ Got an idea, a bug, or a coffee ☕ to spare? Say hi!
 
 <br/>
 
-<img src="assets/footer.svg" width="100%" alt="Thanks for visiting"/>
+<img src="footer.svg" width="100%" alt="Thanks for visiting"/>
 
 </div>
