@@ -87,28 +87,6 @@ I'm an aspiring Full-Stack Developer passionate about building web applications 
 </p>
 
 
-
-## 🗺️ My Learning Roadmap
-- [ ] Python
-- [ ] Numpy
-- [ ] Pandas
-- [ ] Matplotlib
-- [ ] Djnago
-- [ ] Flask
-- [ ] Fast API
-- [x] HTML & CSS fundamentals
-- [x] Responsive design (Flexbox & Grid)
-- [x] Tailwind CSS & Bootstrap
-- [x] JavaScript basics
-- [ ] JavaScript advanced (async/await, DOM, APIs)
-- [ ] React.js
-- [ ] Node.js & Express
-- [ ] MongoDB / MYSQL
-- [ ] DSA in JavaScript
-- [ ] Deploy a full-stack project
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
