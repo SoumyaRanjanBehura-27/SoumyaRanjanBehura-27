@@ -1,131 +1,269 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ============ HERO (animated: stars + typing terminal + waves) ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Soumya%20Ranjan%20Behura&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Web%20Developer%20%7C%20Fresher%20%7C%20Always%20Learning&descAlignY=58&descSize=18" width="100%" alt="header"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=Hi+there!+%F0%9F%91%8B+I'm+Soumya;Frontend+Developer+in+the+making+%F0%9F%9A%80;I+turn+ideas+into+clean+web+pages+%F0%9F%8E%A8;Open+to+internships+%26+fresher+roles+%F0%9F%92%BC;Let's+build+something+awesome+together+%F0%9F%A4%9D" alt="Typing SVG" />
-</a>
+<img src="assets/header.svg" width="100%" alt="Hello, World — I'm Soumya Ranjan Behura"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SoumyaRanjanBehura-27&label=Profile%20Views&color=38B2AC&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/SoumyaRanjanBehura-27?label=Followers&style=for-the-badge&logo=github&color=2c5364)
-![Stars](https://img.shields.io/github/stars/SoumyaRanjanBehura-27?label=Stars&style=for-the-badge&logo=github&color=2c5364)
+<!-- ============ SOCIAL STRIP ============ -->
+<table align="center">
+<tr>
+<td align="center">
+
+<a href="https://linkedin.com/in/soumya-ranjan-behura-1a0896325"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/SoumyaRanjanBehura-27"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:soumyaranjanbehura27@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://mastodon.social/@SoumyaRanjanBehura"><img src="https://img.shields.io/badge/MASTODON-2B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/></a>
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/PORTFOLIO-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://leetcode.com/u/YOUR_USERNAME/"><img src="https://img.shields.io/badge/LEETCODE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://www.hackerrank.com/profile/YOUR_USERNAME"><img src="https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
+
+</td>
+</tr>
+</table>
+
+<img src="https://komarev.com/ghpvc/?username=SoumyaRanjanBehura-27&label=PROFILE%20VIEWS&color=0ea5e9&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/SoumyaRanjanBehura-27?label=FOLLOWERS&style=flat-square&logo=github&color=0ea5e9" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/SoumyaRanjanBehura-27?label=STARS&style=flat-square&logo=github&color=0ea5e9" alt="Stars"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-22d3ee?style=flat-square" alt="Open to internships"/>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## `>_ about_me.py`
 
-```js
-const soumya = {
-  name: "Soumya Ranjan Behura",
-  role: "Fresher | Python Fullstack Developer",
-  location: "India 🇮🇳",
-  currentlyLearning: ["Python", "HTML5", "CSS", "Javascript", "Bootstrap", "React", "Git & GitHub", "Data Structures & Algorithms"],
-  currentlyBuilding: "Responsive websites & small projects",
-  lookingFor: ["Internships", "Entry-level roles", "Open-source contributions"],
-  funFact: "I debug with console.log() and I'm not ashamed 😄",
-};
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```python
+class Developer:
+    def __init__(self):
+        self.name     = "Soumya Ranjan Behura"
+        self.role     = "Python Full Stack Developer (Fresher)"
+        self.location = "India 🇮🇳"
+        self.mindset  = "Learn → Build → Break → Fix → Repeat"
+
+        self.backend  = ["Python", "Django", "Flask", "FastAPI"]
+        self.frontend = ["HTML5", "CSS3", "JavaScript", "Bootstrap", "React"]
+        self.database = ["MySQL", "MongoDB"]
+        self.tools    = ["Git", "GitHub", "VS Code", "Postman"]
+
+        self.building = "Responsive websites & full stack projects"
+        self.seeking  = ["Internships", "Entry-level roles", "Open source"]
+        self.fun_fact = "I debug with print() and I'm not ashamed 😄"
+
+    def say_hi(self):
+        return "Let's build something awesome together! 🚀"
+
+print(Developer().say_hi())
 ```
 
-# 👋 Hey there, I'm a Full-Stack Developer 🚀
+</td>
+<td width="40%" valign="top" align="center">
 
-### 💻 Code. Create. Innovate.
+#### ⚡ Quick Snapshot
 
-I'm an aspiring Full-Stack Developer passionate about building web applications and exploring the power of Python.
+| | |
+|---|---|
+| 🔭 **Working on** | Full stack web apps |
+| 🌱 **Learning** | React, DSA, REST APIs |
+| 💬 **Ask me about** | Python, HTML, CSS, JS |
+| 🚀 **Superpower** | Never giving up |
+| 🎯 **Goal** | First dev role 💼 |
+| 📫 **Reach me** | [Email](mailto:soumyaranjanbehura27@gmail.com) |
 
-- 🐍 **Backend:** Python, Django, FastAPI, Flask
-- 🎨 **Frontend:** React, HTML, CSS
-- 🗄️ **Databases:** MySQL, MongoDB
-- 📊 **Data Tools:** NumPy, Pandas, Matplotlib
-- 🌱 **Currently:** Learning, experimenting, and building projects
-- 🎯 **Goal:** Turn creative ideas into useful, real-world applications
+</td>
+</tr>
+</table>
 
-> "Every expert was once a beginner who never gave up."
-
-⚡ *Building my skills, one commit at a time.*
-
-## 🌐 Socials
-
-<p align="left">
-  <a href="https://linkedin.com/in/soumya-ranjan-behura-1a0896325"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://mastodon.social/@SoumyaRanjanBehura"><img src="https://img.shields.io/badge/Mastodon-%232B90D9.svg?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/></a>
-  <a href="mailto:soumyaranjanbehura27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/SoumyaRanjanBehura-27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+> 💭 *"Every expert was once a beginner who never gave up."*
 
 ---
 
-## 💻 Tech Stack
-
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
-
-### 🌱 Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
-### 🛠️ Tools
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-</p>
-
-
-## 📊 GitHub Stats
+## `>_ currently_learning()`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=SoumyaRanjanBehura-27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SoumyaRanjanBehura-27&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🐍 Python & Backend**<br/><br/>
+<img src="https://progress-bar.xyz/75/?title=Python&width=260&color=0ea5e9" alt="Python"/><br/>
+<img src="https://progress-bar.xyz/50/?title=Django&width=260&color=0ea5e9" alt="Django"/><br/>
+<img src="https://progress-bar.xyz/40/?title=Flask%20%2F%20FastAPI&width=260&color=0ea5e9" alt="Flask FastAPI"/>
+
+</td>
+<td align="center" width="50%">
+
+**🎨 Frontend**<br/><br/>
+<img src="https://progress-bar.xyz/85/?title=HTML5%20%26%20CSS3&width=260&color=22d3ee" alt="HTML CSS"/><br/>
+<img src="https://progress-bar.xyz/60/?title=JavaScript&width=260&color=22d3ee" alt="JavaScript"/><br/>
+<img src="https://progress-bar.xyz/35/?title=React&width=260&color=22d3ee" alt="React"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**🧠 Computer Science**<br/><br/>
+<img src="https://progress-bar.xyz/40/?title=DSA&width=260&color=3b82f6" alt="DSA"/><br/>
+<img src="https://progress-bar.xyz/45/?title=SQL%20%26%20Databases&width=260&color=3b82f6" alt="SQL"/>
+
+</td>
+<td align="center" width="50%">
+
+**🛠️ Workflow**<br/><br/>
+<img src="https://progress-bar.xyz/70/?title=Git%20%26%20GitHub&width=260&color=6366f1" alt="Git"/><br/>
+<img src="https://progress-bar.xyz/30/?title=REST%20APIs&width=260&color=6366f1" alt="REST APIs"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+#### 🗺️ Roadmap
+
+| Stage | Focus | Status |
+|:---:|:---|:---:|
+| `01` | HTML5, CSS3, Responsive Design | ✅ Done |
+| `02` | Python Fundamentals & OOP | ✅ Done |
+| `03` | JavaScript (ES6+), Bootstrap | 🔄 In Progress |
+| `04` | Django / Flask / FastAPI + REST APIs | 🔄 In Progress |
+| `05` | React, Git workflows, Deployment | ⏳ Up Next |
+| `06` | DSA, System Design basics, Open Source | 🎯 Planned |
+
+---
+
+## `>_ tech_stack`
+
+<div align="center">
+
+**🐍 Backend**<br/>
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs&perline=5&theme=dark" alt="Backend"/>
+
+**🎨 Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react&perline=6&theme=dark" alt="Frontend"/>
+
+**🗄️ Databases**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&perline=3&theme=dark" alt="Databases"/>
+
+**📊 Data Tools**<br/>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib&perline=3&theme=dark" alt="Data Tools"/>
+
+**🛠️ Tools & Deployment**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify,linux&perline=8&theme=dark" alt="Tools"/>
+
+</div>
+
+---
+
+## `>_ featured_projects`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🌐 Portfolio Website
+Responsive personal site built with HTML, CSS & JavaScript.
+
+`HTML` `CSS` `JS`
+
+[🔗 View Repo](https://github.com/SoumyaRanjanBehura-27)
+
+</td>
+<td width="33%" valign="top">
+
+### 🐍 Django Web App
+Full stack app with authentication, CRUD & database.
+
+`Python` `Django` `MySQL`
+
+[🔗 View Repo](https://github.com/SoumyaRanjanBehura-27)
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ REST API Project
+Fast, documented API built with FastAPI.
+
+`FastAPI` `Python` `MongoDB`
+
+[🔗 View Repo](https://github.com/SoumyaRanjanBehura-27)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `>_ github_stats`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SoumyaRanjanBehura-27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=38bdf8&icon_color=22d3ee&count_private=true" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaRanjanBehura-27&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=38bdf8&layout=compact" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=SoumyaRanjanBehura-27&theme=dark&hide_border=false" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=SoumyaRanjanBehura-27&theme=tokyonight&hide_border=true&background=0b1220&ring=38bdf8&fire=22d3ee&currStreakLabel=38bdf8" alt="GitHub Streak" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SoumyaRanjanBehura-27&theme=react-dark&bg_color=0b1220&hide_border=true&area=true&color=38bdf8&line=0ea5e9&point=ffffff" alt="Activity Graph" width="100%"/>
 
 </div>
 
-## 💬 Quote of the Moment
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SoumyaRanjanBehura-27&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" width="100%"/>
+</div>
+</details>
+
+---
+
+## `>_ contribution_snake`
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+<!-- Optional: set up the Platane/snk GitHub Action to generate this file, or delete this section -->
+<img src="https://raw.githubusercontent.com/SoumyaRanjanBehura-27/SoumyaRanjanBehura-27/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
 ---
 
-
-## 🤝 Let's Connect
-
-I'm open to **internships, fresher roles, freelance gigs and collaborations**.
+## `>_ quote_of_the_moment`
 
 <div align="center">
 
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge)](mailto:soumyaranjanbehura27@gmail.com)
-[![Connect on LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/soumya-ranjan-behura-1a0896325)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="100%"/>
+
+</div>
+
+---
+
+## `>_ lets_connect`
+
+I'm open to **internships, fresher roles, freelance gigs and collaborations**.
+Got an idea, a bug, or a coffee ☕ to spare? Say hi!
+
+<div align="center">
+
+<a href="mailto:soumyaranjanbehura27@gmail.com"><img src="https://img.shields.io/badge/📧%20EMAIL%20ME-D14836?style=for-the-badge" alt="Email Me"/></a>
+<a href="https://linkedin.com/in/soumya-ranjan-behura-1a0896325"><img src="https://img.shields.io/badge/💼%20CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
 
 <br/><br/>
 
 ⭐ **If you like my work, drop a star on my repos!** ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+<br/>
 
-<sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub>
+<img src="assets/footer.svg" width="100%" alt="Thanks for visiting"/>
 
 </div>
