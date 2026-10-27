@@ -232,7 +232,7 @@ Fast, documented API built with FastAPI.
 <div align="center">
 
 <!-- Optional: set up the Platane/snk GitHub Action to generate this file, or delete this section -->
-<img src="https://raw.githubusercontent.com/SoumyaRanjanBehura-27/SoumyaRanjanBehura-27/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<img src="snake.yml" alt="Snake animation" width="100%"/>
 
 </div>
 
