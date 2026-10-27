@@ -1,7 +1,7 @@
 <!-- ============ HERO (animated: stars + typing terminal + waves) ============ -->
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Hello, World — I'm Soumya Ranjan Behura"/>
+<img src="header.svg" width="100%" alt="Hello, World — I'm Soumya Ranjan Behura"/>
 
 <br/>
 
@@ -132,7 +132,7 @@ print(Developer().say_hi())
 | `01` | HTML5, CSS3, Responsive Design | ✅ Done |
 | `02` | Python Fundamentals & OOP | ✅ Done |
 | `03` | JavaScript (ES6+), Bootstrap | 🔄 In Progress |
-| `04` | Django / Flask / FastAPI + REST APIs | 🔄 In Progress |
+| `04` | Django / Flask / FastAPI + REST APIs | ⏳ Up Next |
 | `05` | React, Git workflows, Deployment | ⏳ Up Next |
 | `06` | DSA, System Design basics, Open Source | 🎯 Planned |
 
