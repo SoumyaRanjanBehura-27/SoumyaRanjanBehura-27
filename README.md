@@ -14,9 +14,12 @@
 <a href="https://github.com/SoumyaRanjanBehura-27"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:soumyaranjanbehura27@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://mastodon.social/@SoumyaRanjanBehura"><img src="https://img.shields.io/badge/MASTODON-2B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/PORTFOLIO-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+
+<!-- Add these back when you have real links:
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://leetcode.com/u/YOUR_USERNAME/"><img src="https://img.shields.io/badge/LEETCODE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://www.hackerrank.com/profile/YOUR_USERNAME"><img src="https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
+-->
 
 </td>
 </tr>
@@ -231,8 +234,7 @@ Fast, documented API built with FastAPI.
 
 <div align="center">
 
-<!-- Optional: set up the Platane/snk GitHub Action to generate this file, or delete this section -->
-<img src="snake.yml" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/SoumyaRanjanBehura-27/SoumyaRanjanBehura-27/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
