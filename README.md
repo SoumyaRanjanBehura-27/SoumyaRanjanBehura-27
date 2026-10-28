@@ -128,18 +128,7 @@ print(Developer().say_hi())
 
 </div>
 
-#### 🗺️ Roadmap
 
-| Stage | Focus | Status |
-|:---:|:---|:---:|
-| `01` | HTML5, CSS3, Responsive Design | ✅ Done |
-| `02` | Python Fundamentals & OOP | ✅ Done |
-| `03` | JavaScript (ES6+), Bootstrap | 🔄 In Progress |
-| `04` | Django / Flask / FastAPI + REST APIs | ⏳ Up Next |
-| `05` | React, Git workflows, Deployment | ⏳ Up Next |
-| `06` | DSA, System Design basics, Open Source | 🎯 Planned |
-
----
 
 ## `>_ tech_stack`
 
@@ -164,44 +153,7 @@ print(Developer().say_hi())
 
 ---
 
-## `>_ featured_projects`
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🌐 Portfolio Website
-Responsive personal site built with HTML, CSS & JavaScript.
-
-`HTML` `CSS` `JS`
-
-[🔗 View Repo](https://github.com/SoumyaRanjanBehura-27)
-
-</td>
-<td width="33%" valign="top">
-
-### 🐍 Django Web App
-Full stack app with authentication, CRUD & database.
-
-`Python` `Django` `MySQL`
-
-[🔗 View Repo](https://github.com/SoumyaRanjanBehura-27)
-
-</td>
-<td width="33%" valign="top">
-
-### ⚡ REST API Project
-Fast, documented API built with FastAPI.
-
-`FastAPI` `Python` `MongoDB`
-
-[🔗 View Repo](https://github.com/SoumyaRanjanBehura-27)
-
-</td>
-</tr>
-</table>
-
----
 
 ## `>_ github_stats`
 
@@ -220,14 +172,7 @@ Fast, documented API built with FastAPI.
 
 </div>
 
-<details>
-<summary><b>🏆 GitHub Trophies</b></summary>
-<br/>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SoumyaRanjanBehura-27&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" width="100%"/>
-</div>
-</details>
----
+
 
 ## `>_ quote_of_the_moment`
 <div align="center">
