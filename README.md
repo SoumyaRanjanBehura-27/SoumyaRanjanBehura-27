@@ -229,16 +229,6 @@ Fast, documented API built with FastAPI.
 </details>
 ---
 
-## `>_ contribution_snake`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SoumyaRanjanBehura-27/SoumyaRanjanBehura-27/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-
-</div>
-
----
-
 ## `>_ quote_of_the_moment`
 <div align="center">
 
