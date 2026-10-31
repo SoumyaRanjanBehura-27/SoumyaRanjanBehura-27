@@ -179,15 +179,6 @@ print(Developer().say_hi())
 
 
 
-## `>_ quote_of_the_moment`
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="520"/>
-
-</div>
-
----
-
 ## `>_ lets_connect`
 
 I'm open to **internships, fresher roles, freelance gigs and collaborations**.
